@@ -32,7 +32,7 @@
 #include <stdint.h>
 #include <string.h>
 #include <stdio.h>
-#include "Lyra2.h"
+#include "lyra2.h"
 
 void lyra2rev2_hash(const char* input, char* output, uint32_t height)
 {
